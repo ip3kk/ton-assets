@@ -1,0 +1,53 @@
+name: TonHK coin
+symbol: "$TonHK"
+decimals: 9
+address: "EQAZECBL9dGSeKU_l-TdqeobIIIa0gYQaTlBPLrAksB3tgnD"
+description: "TonHK is a Hong Kong community token built on the TON blockchain, designed to foster the development and integration of the Telegram and TON ecosystems within the Hong Kong region."
+description_zh: "TonHK是基於TON區塊鏈的香港社區代幣，專為促進香港地區Telegram與TON生態系統的發展與整合而設計。"
+extended_description: |
+  TonHK token aims to provide seamless integration solutions for the TON blockchain and Telegram platform ecosystem, focusing on the following application scenarios:
+  
+  • NFT trading and creation platform on TON blockchain
+  • Telegram mini-application ecosystem
+  • TonHK marketplace under development, offering digital assets and physical goods trading
+  
+  As Hong Kong's first community token focused on the TON ecosystem, TonHK will bridge Hong Kong with the global TON community, encouraging local developers to participate in TON ecosystem construction, and promoting commercial applications and adoption of TON blockchain in Hong Kong.
+extended_description_zh: |
+  TonHK代幣旨在為TON區塊鏈和Telegram平台生態系統提供無縫整合的解決方案，專注於以下應用場景：
+  
+  • TON區塊鏈上的NFT交易與創作平台
+  • Telegram迷你應用程式生態系統
+  • 正在開發中的TonHK商城，提供數字資產與實物商品交易
+  
+  作為香港首個專注於TON生態的社區代幣，TonHK將成為連接香港與全球TON社區的橋樑，促進本地開發者參與TON生態建設，並推動TON區塊鏈在香港的商業應用與普及。
+image: "https://i.postimg.cc/QN7c1GZq/TON-HK-512-x-512.png"
+social:
+  website: "https://tonhk.org"
+  telegram: "https://t.me/WcK669"
+  twitter: "https://twitter.com/tonhk_official"
+  instagram: "https://www.instagram.com/tonhk_coin?igsh=dGJzdWo1eTY0a20%3D&utm_source=qr"
+  github: "https://github.com/tonhk"
+token_economics:
+  total_supply: 60000000
+  initial_circulating_supply: 15000000
+  distribution:
+    community_rewards: "35%"
+    development_fund: "30%"
+    founding_team: "20%"
+    marketing_and_partnerships: "15%"
+roadmap:
+  phase_1_2023Q4:
+    - "Token launch and distribution"
+    - "Community building and ecosystem development"
+    - "Initial Telegram mini-app development"
+  phase_2_2024Q1Q2:
+    - "TON NFT platform integration"
+    - "TonHK marketplace beta release"
+    - "Integration with Hong Kong local websites"
+  phase_3_2024Q3Q4:
+    - "TonHK marketplace official launch"
+    - "Expansion of Hong Kong regional partnerships"
+    - "Introduction of community governance system"
+team:
+  description: "The TonHK team consists of Hong Kong tech enthusiasts and professionals passionate about blockchain technology, with a special focus on the TON ecosystem and Telegram platform. Team members possess extensive experience in blockchain development, marketing, and community building."
+  description_zh: "TonHK團隊由一群熱愛區塊鏈技術、特別專注於TON生態與Telegram平台的香港科技愛好者和專業人士組成。團隊成員擁有豐富的區塊鏈開發、市場營銷和社區建設經驗。"
